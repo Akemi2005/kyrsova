@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Греція",
+    "description": "Відчуйте давню історію та пляжі",
+    "image": "../img/card-json.png",
+    "label": "Усі пакети"
+  },
+  {
+    "title": "Італія",
+    "description": "Розкрийте мистецтво та кухню",
+    "image": "../img/card-json.png",
+    "label": "Усі пакети"
+  },
+  {
+    "title": "Франція",
+    "description": "Досліджуйте романтичний Париж",
+    "image": "../img/card-json.png",
+    "label": "Усі пакети"
+  },
+  {
+    "title": "Іспанія",
+    "description": "Насолоджуйтесь фламенко та сонцем",
+    "image": "../img/card-json.png",
+    "label": "Усі пакети"
+  }
+]
