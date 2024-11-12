@@ -3,13 +3,13 @@
     {
       "title": "Греція",
       "description": "Відчуйте давню історію та пляжі",
-      "image": "https://github.com/Akemi2005/kyrsova/main/img/card-json.png",
+      "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova/main/img/card-json.png",
       "label": "Усі пакети"
     },
     {
       "title": "Італія",
       "description": "Підкоріть кулінарні шедеври та культуру",
-      "image": "https://github.com/Akemi2005/kyrsova/main/img/card-json1.png",
+      "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova/main/img/card-json1.png",
       "label": "Усі пакети"
     }
   ]
