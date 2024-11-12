@@ -7,9 +7,21 @@
       "label": "Усі пакети"
     },
     {
-      "title": "Італія",
-      "description": "Підкоріть кулінарні шедеври та культуру",
+      "title": "Єгипет",
+      "description": "Відкрийте для себе країну фараонів і пірамід",
       "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova/main/img/card-json1.png",
+      "label": "Усі пакети"
+    },
+    {
+      "title": "Африка",
+      "description": "Вирушайте в подорож на все життя",
+      "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova/main/img/card-json2.png",
+      "label": "Усі пакети"
+    },
+    {
+      "title": "Франція",
+      "description": "Пориньте в мистецтво, культуру та кухню",
+      "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova/main/img/card-json3.png",
       "label": "Усі пакети"
     }
   ]
